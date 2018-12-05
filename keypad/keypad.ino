@@ -1,12 +1,3 @@
-/* @file CustomKeypad.pde
-|| @version 1.0
-|| @author Alexander Brevig
-|| @contact alexanderbrevig@gmail.com
-||
-|| @description
-|| | Demonstrates changing the keypad size and key values.
-|| #
-*/
 #include <Keypad.h>
 
 const byte ROWS = 3; //three rows
